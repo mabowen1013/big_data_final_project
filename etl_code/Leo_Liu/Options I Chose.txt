@@ -1,0 +1,2 @@
+- Text formatting (removing spaces, extra characters, making all caps or all lowercase for normalization / future joining)
+- Create a binary column based on the condition of another column.
